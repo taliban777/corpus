@@ -1,7 +1,61 @@
 # Frame Contestation in the Nation of Islam, 1952–1977
 ### A Diagnostic–Prognostic–Motivational Frame Analysis with Critical-Realist Retroduction
 
-**Corpus base:** 34 primary documents selected from `1952-1977 - Contestation/` and `Initial Pilot Sampling/`, chosen for centrality, comparability across time, and direct bearing on the Elijah Muhammad–Malcolm X contestation and its 1975 aftermath in W. D. Muhammad's succession. Full list in **Works Cited**, below. Louis Farrakhan's 1978–1982 restorationist speeches are referenced only in the epilogue, outside the 1952–1977 evidentiary window, per Evidentiary Rule 4 (no retrospective contamination).
+**Corpus base:** 36 primary documents selected from `1952-1977 - Contestation/` and `Initial Pilot Sampling/`, chosen for centrality, comparability across time, and direct bearing on the Elijah Muhammad–Malcolm X contestation and its 1975 aftermath in W. D. Muhammad's succession. Full list in **Works Cited**, below. Louis Farrakhan's 1978–1982 restorationist speeches are referenced only in the epilogue, outside the 1952–1977 evidentiary window, per Evidentiary Rule 4 (no retrospective contamination).
+
+**Coding framework:** This report's frame labels (D1–D3, P1–P4, M1–M3) are cross-walked in Part 0 against an independently produced formal codebook — `data/NOI_Period2_Reconstructed_Codebook-fa0b41.xlsx` — that reconstructs a compatible diagnostic/prognostic/motivational/counterframing (F.D/F.P/F.M/F.X/F.T/CF) and rhetorical (R.ETH/R.PATH/R.LOG/R.NOM/R.MOD) taxonomy over an overlapping 14-source subset of this same corpus. Part 0 also flags where the two coding passes converge, diverge, and where one recovered evidence the other could not.
+
+---
+
+# PART 0: CODING FRAMEWORK (RECONSTRUCTED CODEBOOK CROSS-WALK)
+
+This report was drafted independently of, but is here reconciled against, a formal reconstructed codebook covering a 14-source subset of this same 1960–1965 / 1975–1976 corpus (workbook sheets: *Master Codebook*, *Code Tree*, *Rhetorical Codebook*, *Frame × Rhetoric Matrix*, *Frame Process Matrix*, *Context-Process Variables*, *Example Coding Units*, *Audit Trail*, *Uncertainties & Gaps*). Rather than discard this report's own D/P/M labels, the two schemes are cross-walked below; the reconstructed codebook's code IDs are used as bracketed tags throughout the rest of this report (e.g., **[F.D.01]**) so a reader can move between either taxonomy.
+
+## Master Code Taxonomy (Reconstructed Codebook)
+
+| Code | Name | Definition (condensed) | Confidence |
+|---|---|---|---|
+| **F.D.01** | Loss of True Identity / "So-Called Negro" | Black Americans stripped of true name/nation/history/religion by white America | High |
+| **F.D.02** | White America as Structurally Illegitimate Guarantor | The U.S. constitutional order was never designed to guarantee Black freedom/citizenship | High |
+| **F.D.03** | Integration as Self-Destruction | Integration reframed as collective self-annihilation, not a remedy | High |
+| **F.D.04** | State/Legal Persecution of Believers | Courts/police target NOI members and mosques on religious/racial grounds | High |
+| **F.P.01** | Land and Nation-Building | Distinct territory as the precondition for self-governance | High |
+| **F.P.02** | Economic Self-Help / "Do for Self" | Independent Muslim-owned economic institutions in place of dependency | High |
+| **F.P.03** | Institution-Building | Muslim-run schools/mosques/university as an alternative to white-run institutions | Medium |
+| **F.M.01** | Mass Unity Behind the Messenger | Charismatic mobilization: mass numerical unity behind Elijah Muhammad personally | High |
+| **F.X.01** | Ballot-or-Bullet Political Ultimatum | Malcolm X's secular electoral/self-defense dichotomy, replacing religious separatism | High |
+| **F.X.02** | Universal Brotherhood / Orthodox Pan-Islamic Reframing | Islam reframed as race-transcending via Hajj experience | Medium |
+| **F.X.03** | Secular Pan-African Political Organisation | OAAU as a nonreligious institutional alternative to the NOI | Medium |
+| **F.T.01** | Death Reframed as Transition, Not Loss | Elijah Muhammad's death recast as scripturally-anticipated transition, foreclosing succession-crisis narratives | High |
+| **F.T.02** | Spiritual/Universal Resurrection | "Resurrection" reworked from racial awakening toward interiorized, universal theology | Medium |
+| **F.T.03** | "Bilalian" Identity Relabeling | New collective self-designation appearing alongside, not replacing, "so-called Negro" | High |
+| **CF.01** | Rebuttal of "Not a Religion / Racist Sect" Ruling | Elijah Muhammad's direct rebuttal of Judge F. Ryan Duffy's 1963 ruling | High |
+
+**Rhetorical codes:** R.ETH (ethos: scriptural/biographical/institutional authority), R.PATH (pathos: urgency, sacrifice, wonder), R.LOG (logos: causal argument, antithesis), R.NOM.01 (nomination: "so-called Negro"), R.NOM.02 (relabeling: "Bilalian"), R.MOD (modality: emphatic certainty markers, e.g. "Simply no.").
+
+## Cross-Walk: This Report's Frames ↔ Reconstructed Codebook
+
+| This report | Reconstructed codebook | Relationship |
+|---|---|---|
+| D1 (Devil-by-Nature / Yacub's History) | *no direct equivalent* | **Divergence.** The reconstructed codebook's sampled sources (MS 1960–1964 issues, MTTBIA) did not surface Yacub's-history/devil-by-nature material as a standalone code; this report's TSWV/TTHOJ/OSHA sampling did. Neither corpus subset is exhaustive; this is flagged as a sampling difference, not a disagreement about the historical record. |
+| D2 (Racial-Political Oppression) | F.X.01, F.D.02 | Convergent — same core evidence (Ballot or the Bullet; MTTBIA Ch. 98 constitutional argument) |
+| D3 (Mental Slavery / False Consciousness) | F.D.01 | Partial convergence — F.D.01 is narrower (identity-label theft specifically); D3 also covers Christian/educational "brainwashing," which the codebook does not code as a separate family |
+| P1 (Divine Separation) | F.P.01 | Convergent |
+| P1's economic/institutional components | F.P.02, F.P.03 | Convergent — codebook treats these as distinct codes this report folds under P1's "Institutional transformation" |
+| P2 (Electoral Self-Determination) | F.X.01 | Convergent (same source, same 9-week window) |
+| P3 (Pan-African Internationalization) | F.X.02, F.X.03 | Convergent |
+| P4 (Reform and Reintegration, 1975) | F.T.01, F.T.02, F.T.03 | Convergent |
+| M1 (Chosen Nation / Divine Urgency) | F.M.01 (partial) | Partial — F.M.01 covers charismatic mass-mobilization; this report's eschatological/prophetic-time framing is broader than F.M.01 alone |
+| M2 (Loyalty and Hypocrisy) | *no equivalent — explicitly excluded* | **Divergence, evidentiary.** See Reconciliation Note below. |
+| M3 (Universal Brotherhood) | F.X.02, F.T.02, F.T.03 | Convergent |
+| *(not separately treated)* | **F.D.04 / CF.01** (Judge Duffy ruling and Elijah Muhammad's rebuttal) | New evidentiary thread incorporated below as **D4**, added to this report on cross-walk review |
+
+## Reconciliation Note
+
+Two evidentiary discrepancies between this report and the reconstructed codebook are worth stating plainly rather than silently resolving:
+
+1. **The "Biggest Hypocrite" article (Louis X, Dec. 4, 1964) — M2's primary evidentiary source.** The reconstructed codebook's own Audit Trail and Uncertainties & Gaps sheets report that this file (`LF_1964_12_04_Article_BiggestHypocrite.pdf`) returned only OCR page-boundary markers with no usable text layer, and was therefore **explicitly excluded from generating any coded quotation**. This report's corpus-preparation step ran the same scanned PDF through `pdftoppm` (200 dpi) and Tesseract OCR — a page-image OCR pass, rather than a text-layer extraction — which did recover legible text, including the "worthy of death" passage quoted at M2 above. This report's use of that passage should therefore be read as resting on a successful independent re-scan of a source the codebook's own methodology flagged as inaccessible, not as a disagreement over interpretation. Given period newsprint scan quality, this passage still merits an independent verification pass before any claim stronger than "this report recovered and quotes it" is built on it.
+2. **The 1965–1975 gap.** The reconstructed codebook's Uncertainties & Gaps sheet independently identifies an eleven-year gap in its own source batch (no source dated 1966–1974) and recommends treating its corpus as internally sub-periodized ("2a: 1951–1965" / "2b: 1975–1977") rather than continuous. This report's own sampling (which does include *How to Eat to Live*, 1967; *The Fall of America*, 1973; *Our Saviour Has Arrived*, 1974) partially closes that gap and supports the codebook's own recommended caution: doctrinal continuity is directly evidenced through 1974 in this report's sample, which the codebook's narrower batch could not itself confirm. See Part VII for this report's account of that continuity.
 
 ---
 
@@ -9,7 +63,7 @@
 
 Diagnostic frames answer: *what is wrong, and who or what caused it?* Three diagnostic frames are load-bearing across the corpus.
 
-## D1 — The Devil-by-Nature Frame (Yacub's History)
+## D1 — The Devil-by-Nature Frame (Yacub's History) `[no reconstructed-codebook equivalent — see Part 0]`
 
 ### Frame Name
 The White Man as Devil by Nature / Yacub's History
@@ -51,7 +105,7 @@ Present in TSWV (1957), TTHOJ (1957), MTTBIA (1965), HTETL (1967), TFOA (1973), 
 
 ---
 
-## D2 — Racial-Political Oppression (Victims of Americanism)
+## D2 — Racial-Political Oppression (Victims of Americanism) `[F.X.01, F.D.02]`
 
 ### Frame Name
 Structural/Political Diagnosis: 400 Years of Slavery and Present Political Exclusion
@@ -93,7 +147,7 @@ The frame does the work of making Black political action legible as a *rights cl
 
 ---
 
-## D3 — Mental Slavery / Christian False Consciousness
+## D3 — Mental Slavery / Christian False Consciousness `[F.D.01, partial]`
 
 ### Frame Name
 The So-Called Negro's Graveyard: Religious and Educational Brainwashing
@@ -135,11 +189,48 @@ TSWV (1957); OAAU Founding Charter (1964); W. D. Muhammad, First Official Interv
 
 ---
 
+## D4 — State/Legal Delegitimization and Its Rebuttal `[F.D.04 / CF.01]`
+
+*Added to this report on cross-walk review against the reconstructed codebook (Part 0); not present in this report's original draft.*
+
+### Frame Name
+"Islam's Reply to a Judge": Contesting Judicial Denial of Religious Status
+
+### Definition
+The diagnosis that courts and police target NOI members and mosques specifically because of their religion — up to and including a judge's ruling that the movement is not a religion at all — paired with a direct, first-person rebuttal by Elijah Muhammad naming the ruling and the judge.
+
+### Core Diagnosis
+On November 8, 1963, per *Muhammad Speaks*' own account, Federal Judge F. Ryan Duffy ruled that the "Black Muslim 'sect' is not a religion, but is rather racist, and [has] for its objective the overthrow of the white race." The same December 6, 1963 issue reports a fourth retrial of "15 innocent Rochester Muslims" following what it characterizes as an armed police invasion of a religious meeting.
+
+### Representative Quotations
+- *Muhammad Speaks* description of the Duffy ruling and Elijah Muhammad's rebuttal, naming the judge directly and citing his own 1943 imprisonment as a credibility marker (*Muhammad Speaks*, Dec. 6, 1963, "Islam's Reply to a Judge").
+- "THREE OF THE 15 innocent Rochester Muslims who face a fantastic 4th 'trial' on charges growing out of an attempt by armed policemen to invade their religious meeting." (*Muhammad Speaks*, Dec. 6, 1963)
+
+### Connection to Prognostic and Motivational Frames
+Functions as an ethos-and-logos-grounded (R.ETH, R.LOG) counterframe rather than a call to separation or mobilization in its own right; it defends the movement's legitimacy as a precondition for every other frame in this report rather than proposing a new remedy.
+
+### Empirical Level
+Directly stated in the same publication that reports the underlying ruling — a same-issue diagnosis-and-rebuttal pair, independently verified for this report against the primary scan (`MS_1963_12_Volume_3_No_6.pdf`; masthead and Duffy references confirmed via direct OCR extraction of this report's own corpus copy, though the scan's degraded quality limits this report to paraphrase rather than a independently re-verified verbatim quotation of Elijah Muhammad's exact rebuttal wording — see Part 0, Reconciliation Note, for this report's general practice of flagging OCR-quality limits explicitly).
+
+### Actual Level
+Functions to convert a specific, named judicial delegitimization into an occasion for public, authored self-defense — pairing biographical suffering (the 1943 imprisonment) with point-by-point rebuttal, a pattern distinct from D1's cosmological register and closer in kind to D2's institutional/legal register.
+
+### Real Level (Retroduction)
+*Retroductive inference:* a same-issue diagnosis-and-rebuttal pairing, appearing in the movement's own paper rather than in external reportage, is consistent with an organizational practice of using the newspaper itself as the primary instrument of legitimacy defense — but the corpus does not contain internal editorial-decision records confirming this as a deliberate strategy rather than simply Elijah Muhammad's own preferred register of response.
+
+### Relative Importance
+**Medium.** A single well-evidenced instance in this report's sample (contrast the reconstructed codebook, which treats it as one of its two strongest process-tracing pairs in its own smaller corpus).
+
+### Evidence Across Corpus
+*Muhammad Speaks*, Dec. 6, 1963 (Vol. 3, No. 6).
+
+---
+
 # PART II: PROGNOSTIC FRAME ANALYSIS
 
 Prognostic frames answer: *what should be done, and by what mechanism will it work?*
 
-## P1 — Divine Separation
+## P1 — Divine Separation `[F.P.01, F.P.02, F.P.03]`
 
 ### Frame Name
 Separation as the Only Solution
@@ -196,7 +287,7 @@ Separation as prognosis directly organizes movement resources toward land acquis
 
 ---
 
-## P2 — Political Self-Determination / The Ballot
+## P2 — Political Self-Determination / The Ballot `[F.X.01]`
 
 ### Frame Name
 Electoral and Institutional Self-Determination Within America
@@ -240,7 +331,7 @@ The speech functions to reposition Malcolm X, only weeks after his departure fro
 
 ---
 
-## P3 — Pan-African / Human-Rights Internationalization
+## P3 — Pan-African / Human-Rights Internationalization `[F.X.02, F.X.03]`
 
 ### Frame Name
 Organization of Afro-American Unity: Human Rights Beyond U.S. Civil Rights
@@ -284,7 +375,7 @@ Mecca Letter (April 20, 1964); OAAU Founding Charter (June 28, 1964).
 
 ---
 
-## P4 — Reform and Reintegration (W. D. Muhammad, 1975)
+## P4 — Reform and Reintegration (W. D. Muhammad, 1975) `[F.T.01, F.T.02, F.T.03]`
 
 ### Frame Name
 Universalization and Domestic Reintegration
@@ -332,7 +423,7 @@ W. D. Muhammad, Saviors Day Address Pt. 2 (Feb. 26, 1975); First Official Interv
 
 Motivational frames answer: *why should one act now, and on what basis is continued commitment demanded?*
 
-## M1 — Chosen Nation / Divine Urgency
+## M1 — Chosen Nation / Divine Urgency `[F.M.01, partial]`
 
 ### Frame Name
 Prophetic Urgency and the Chosen Nation
@@ -370,7 +461,7 @@ Fard letter (1933); TSWV (1957); response to Malcolm X's departure (1964); TFOA 
 
 ---
 
-## M2 — Loyalty and Hypocrisy: The Discourse of the Defector
+## M2 — Loyalty and Hypocrisy: The Discourse of the Defector `[no reconstructed-codebook equivalent — see Part 0, Reconciliation Note 1]`
 
 ### Frame Name
 Betrayal, Hypocrisy, and the Boundary of Legitimate Voice
@@ -409,7 +500,7 @@ Louis X, "Malcolm... Biggest Hypocrite of 1964" (*Muhammad Speaks*, Dec. 4, 1964
 
 ---
 
-## M3 — Universal Brotherhood Under One God
+## M3 — Universal Brotherhood Under One God `[F.X.02, F.T.02, F.T.03]`
 
 ### Frame Name
 Post-Racial Monotheistic Fellowship
@@ -520,6 +611,8 @@ M1 (prophetic urgency) and M3 (universal brotherhood) are mutually exclusive in 
 
 **1965–1977:** Return to doctrinal stability under Elijah Muhammad (*How to Eat to Live*, 1967; *The Fall of America*, 1973; *Our Saviour Has Arrived*, 1974 — all restating D1/P1/M1 without modification), followed by a second concentrated period of frame transformation at his death: W. D. Muhammad's succession (February 1975) and the documented reintegrative reframing of March–June 1975, independently corroborated by external press coverage (*Time*, June 1975). The window closes (1977) roughly two years into this second transformation, before its longer-term consolidation (which the corpus does not sample) and before the subsequent restorationist countermovement associated with Louis Farrakhan's post-1977 activity, which lies outside this analysis's evidentiary boundary.
 
+**On sub-periodization (cross-walk note):** The reconstructed codebook discussed in Part 0, working from a narrower 14-source batch, independently identified an eleven-year gap in *its own* sample (no source dated 1966–1974) and recommended treating "Period 2" as internally split into "2a" (1951–1965) and "2b" (1975–1977) rather than as one continuous bloc — flagging this as its single most important structural finding. This report's broader sampling (1967, 1973, 1974 books included) is able to partially resolve that specific uncertainty: doctrinal continuity (D1/P1/M1 restated without modification) is directly evidenced through 1974, one year before the succession, which supports reading the 1965–1975 span as *stable continuation*, not silence, in the movement's own primary literature — even though this report's sample, like the codebook's, contains no *periodical* coverage between 1965 and 1975 and cannot speak to that specific gap in the newspaper record.
+
 ---
 
 # PART VIII: RETRODUCTIVE ANALYSIS OF THE PERIOD
@@ -567,11 +660,14 @@ This report has attempted to observe the following standards throughout:
 8. **Leadership differences demonstrated, not asserted:** every claimed difference between Elijah Muhammad, Malcolm X, Louis X/Farrakhan, and W. D. Muhammad is grounded in a specific dated document with direct quotation.
 9. **Negative evidence handled carefully:** the "worthy of death" language and its proximity to Malcolm X's assassination are reported as documented textual fact without asserting an unsupported causal link to the assassination itself.
 10. **Quotations:** provided directly from the sampled corpus throughout, with source document and date.
-11. **Analytical standard:** this report aims to meet the standard of a rigorous, evidence-bounded sociological frame analysis; where the corpus's limits (partial OCR quality on some newspaper scans, a curated rather than exhaustive sample of 34 documents out of 591 available files) constrain confidence, this is stated rather than papered over.
+11. **Analytical standard:** this report aims to meet the standard of a rigorous, evidence-bounded sociological frame analysis; where the corpus's limits (partial OCR quality on some newspaper scans, a curated rather than exhaustive sample of 36 documents out of 591 available files) constrain confidence, this is stated rather than papered over.
+12. **Cross-validation against an independent coding pass:** where a second, independently produced formal codebook exists over an overlapping corpus subset (Part 0), this report's claims are checked against it; convergence is noted, and any divergence — including cases where this report's own evidentiary basis is *stronger* than the comparison codebook's (Part 0, Reconciliation Note 1) or *narrower* than it (the absent D1 devil-by-nature code) — is stated explicitly rather than silently reconciled in either direction.
 
 ---
 
-# WORKS CITED (Selected Corpus, N=34)
+# WORKS CITED (Selected Corpus, N=36)
+
+*Where a document is also coded in the reconstructed codebook (Part 0), its Source ID (S01–S14) is given in brackets for cross-reference.*
 
 **Foundational**
 - W. D. Fard, Letter to Elijah Muhammad, September 7, 1933
@@ -579,31 +675,33 @@ This report has attempted to observe the following standards throughout:
 **Elijah Muhammad — Books**
 - *The Supreme Wisdom*, Vol. 1 (1957)
 - *The True History of Jesus' Birth, Death, and What It Means to You and Me* (1957)
-- *Message to the Blackman in America* (1965)
+- *Message to the Blackman in America* (1965) `[S09]`
 - *How to Eat to Live*, Book 1 (1967)
 - *The Fall of America* (1973)
 - *Our Saviour Has Arrived* (1974)
 - *The Flag of Islam* (1974)
 
 **Elijah Muhammad — Periodical**
+- "Islam's Reply to a Judge," *Muhammad Speaks*, Vol. 3, No. 6, December 6, 1963 `[S03]` — added on cross-walk review (Part 0, D4)
+- *Muhammad Speaks*, Vol. 3, No. 10, January 31, 1964 (masthead/doctrinal continuity check)
 - "Misunderstanding and Misinterpretation," *Muhammad Speaks*, September 11, 1964 (response to Malcolm X's departure)
-- *Muhammad Speaks* issues sampled across 1960, 1962–1975 (16 issues, one per approximate year, for editorial and institutional continuity)
-- *Accomplishments of the Muslims* (self-published pamphlet, 1975)
+- *Muhammad Speaks* issues sampled across 1960, 1962–1975 (18 issues total, one per approximate year, for editorial and institutional continuity) `[S02 = MS_1960_05]`
+- *Accomplishments of the Muslims* (self-published pamphlet, 1975) `[S10]`
 
 **Malcolm X**
-- "The Ballot or the Bullet," Cleveland, April 3, 1964
-- Letter from Mecca, April 20, 1964
-- Organization of Afro-American Unity, Founding Rally Address and Charter, June 28, 1964
+- "The Ballot or the Bullet," Cleveland, April 3, 1964 `[S05]`
+- Letter from Mecca, April 20, 1964 `[S06]`
+- Organization of Afro-American Unity, Founding Rally Address and Charter, June 28, 1964 `[S07]`
 - "The Hate That Hate Produced" (Mike Wallace interview footage, July 1959; sampled via OCR)
 - *Malcolm X Collected Speeches* (reference volume, partial)
 
 **Louis X / Louis Farrakhan**
-- "Malcolm... Biggest Hypocrite of 1964," *Muhammad Speaks*, December 4, 1964
+- "Malcolm... Biggest Hypocrite of 1964," *Muhammad Speaks*, December 4, 1964 `[S08 in reconstructed codebook — see Part 0, Reconciliation Note 1: recovered here via page-image OCR after the codebook's own extraction attempt failed]`
 - *Time* magazine coverage of the June 1975 Chicago rally, quoting Farrakhan directly (June 30, 1975)
 
 **W. D. Muhammad (Warith Deen Muhammad)**
-- Saviors Day Address, Pt. 2, February 26, 1975
-- "I Was Born for the Mission" / First Official Interview, March 21, 1975
+- Saviors Day Address, Pt. 2, February 26, 1975 `[S11]`
+- "I Was Born for the Mission" / First Official Interview, March 21, 1975 `[S12]`
 - *Bilalian News*, Vol. 1, No. 1, November 1975
 
 **External / State Framing**
@@ -614,4 +712,4 @@ This report has attempted to observe the following standards throughout:
 
 ---
 
-*Note on method: this report was produced by sampling 34 of the 591 documents in the project corpus, selected for centrality to the Elijah Muhammad–Malcolm X contestation and the 1975 succession, for chronological spread across 1952–1977, and for cross-comparability (books, periodicals, speeches, external press, and state records each represented). It is a strategic sample, not an exhaustive one; claims of frequency or "the corpus shows X throughout" refer to the sampled set and should not be read as claims about the full 591-document archive.*
+*Note on method: this report was produced by sampling 36 of the 591 documents in the project corpus, selected for centrality to the Elijah Muhammad–Malcolm X contestation and the 1975 succession, for chronological spread across 1952–1977, and for cross-comparability (books, periodicals, speeches, external press, and state records each represented). It is a strategic sample, not an exhaustive one; claims of frequency or "the corpus shows X throughout" refer to the sampled set and should not be read as claims about the full 591-document archive. Part 0 additionally cross-walks this report's coding against an independently produced formal codebook (`data/NOI_Period2_Reconstructed_Codebook-fa0b41.xlsx`) covering a narrower, partially overlapping 14-source subset; where the two disagree or one recovered evidence the other could not, this is stated explicitly rather than resolved by silent preference for either source.*
