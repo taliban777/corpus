@@ -4,6 +4,8 @@
 
 This analysis draws on documents held in the `1952-1977 - Contestation/` directory of the project corpus, selected for centrality to the Elijah Muhammad–Malcolm X contestation and the 1975 Warith Deen Muhammad succession, and for comparability with the Period 1 (1930–1951) analysis. The full selection of up to fifty sources is listed in the **Works Cited** at the end of this document; sources are cited in-text by short title. Louis Farrakhan's 1978–1982 restorationist speeches lie outside this evidentiary window and are not analyzed here except where a 1964–1975 document by "Louis X" (his name in this period) falls inside it. FBI files are used only where they independently corroborate dates, organizational facts, or the state's own diagnostic framing of the movement (Frame D5, below); they are not used to adjudicate contested historical facts the corpus itself cannot settle.
 
+This revision draws substantially deeper on the `Elijah Muhammad/Official_Publications` subfolder — the 1960–1975 run of *Muhammad Speaks* itself — since the newspaper, published under his own Mosque No. 2 and carrying both his signed columns ("Teachings of the Holy Quran") and the standing "What the Muslims Believe"/"What the Muslims Want" program printed in nearly every issue, is the movement's primary weekly organ of record and the main vehicle, alongside his books, through which his own words reached the general membership. Fourteen of the fifty cited sources are drawn directly from this run, selected across 1960–1974 for legibility, doctrinal significance, and comparability with the corresponding Period 1 material.
+
 This document is the **diagnostic** volume of a three-part frame analysis (Diagnostic / Prognostic / Motivational), expanding and superseding the diagnostic material previously compressed into a single combined report. It follows the analytical structure of the Period 1 diagnostic analysis so the two periods can be read side by side.
 
 ---
@@ -37,6 +39,8 @@ These six frames are not evenly distributed across the period. D1 and D3 are the
 - "The devil certainly did a 100 per cent job in turning the people against" their own nature and food (*How to Eat to Live*, Book 1, 1967) — the diagnosis extends from theology and history into the believer's own body and diet, a continuity with the Period 1 corpus's "poison food" diagnosis (Beynon, 1938), now recast in explicitly biological-racial terms rather than merely dietary ones.
 - Elijah Muhammad's response to Malcolm X's 1964 departure restates the doctrine without engaging any of Malcolm X's stated reasons for leaving: "There is much talk... about the ending of the world that we now live in (the world of the white man). The white race is losing their divine power to rule" (*Muhammad Speaks*, Sept. 11, 1964) — evidence that, under strain, the frame's response to external shock is restatement, not revision.
 - Louis X's December 1964 attack on Malcolm X likewise assumes, rather than argues, D1 as settled doctrine, treating any departure from it as personal betrayal rather than reasoned disagreement (*Muhammad Speaks*, Dec. 4, 1964; see D4, below).
+- Elijah Muhammad's own regular *Muhammad Speaks* column, "Teachings of the Holy Quran," restates the Yacub etiology in its most explicitly causal form five years later, glossed directly onto Qur'anic verse: "MR. YAKUB'S made-man (white race) is the people that started fighting to appear among us... The white race is the real cause of it," immediately followed by his own gloss on Qur'an 7:27 ("Surely We have made the devils to be the friends of those who believe not"): "This happened to the Black People who followed Yakub from Arabia. He pulled off, from their original self, the clothes of Righteousness... You are warned. You believe you are safe in following the invitation to evil and filth of the white race. Wait and see" (*Muhammad Speaks*, July 4, 1969) — the same column runs, in the identical issue, under the sub-heading "The Disgrace," pairing the Yacub history directly with Qur'an 5:51's warning against taking "the Jews and the Christians for friends," fusing D1 with a scriptural-exclusivist register absent from the 1957 books' more purely historical-narrative presentation.
+- The "We Must Have Freedom, Justice and Equality" campaign that runs across *Muhammad Speaks*' first several volumes (1960–1963) is diagnostically significant precisely for what it withholds: front-page copy reading "Would you like remaining a permanent slave or being a permanent member of a soup line?" (Vol. 1, No. 2, Dec. 1961; Vol. 2, No. 25, Aug. 1963) names *economic* deprivation but frames its cause, in the same issues' inside pages, as an inherent property of "the So-Called Negro['s]" slave-master relationship rather than as a correctable policy failure — a diagnostic move consistent with, and preparatory to, D1's ontological register even where the surface language ("profiteers," not "devils") briefly narrows the object of blame, as in the same period's headline "Blame Profiteers, Not All Whites, For Negro..." (Vol. 2, No. 25, Aug. 1963) — a rare, if qualified, softening of D1's collective-hereditary attribution that the corpus does not sustain or develop further in the sampled issues.
 
 **Responsible Agents.** Yacub as originating scientist; by extension the entire "Caucasian" population as his genetically continuous, morally culpable descendants — a doctrine of collective, hereditary responsibility rather than individual culpability, structurally identical to the Period 1 corpus's *Supreme Wisdom Lessons* etiology of the "grafted" race.
 
@@ -53,7 +57,7 @@ These six frames are not evenly distributed across the period. D1 and D3 are the
 
 **Relative Importance:** **High** — the deepest and most temporally stable diagnostic frame in the corpus, and the single frame from which both Malcolm X (1964) and Warith Deen Muhammad (1975) independently, and separately, depart.
 
-**Evidence Across Corpus:** TSWV (1957); TTHOJ (1957); MTTBIA (1965); HTETL Books 1–2 (1967, 1972); TFOA (1973); OSHA (1974); EM's Sept. 1964 response to Malcolm X's departure; Louis X's Dec. 1964 "Biggest Hypocrite" article (by presupposition). Contrast: absent from Malcolm X's post-March-1964 corpus and explicitly historically bounded, though not repudiated outright, by Warith Deen Muhammad in 1975 (see D6).
+**Evidence Across Corpus:** TSWV (1957); TTHOJ (1957); MTTBIA (1965); HTETL Books 1–2 (1967, 1972); TFOA (1973); OSHA (1974); EM's Sept. 1964 response to Malcolm X's departure; Louis X's Dec. 1964 "Biggest Hypocrite" article (by presupposition); *Muhammad Speaks*, Vol. 1, No. 2 (Dec. 1961) and Vol. 2, No. 25 (Aug. 1963), "We Must Have Freedom, Justice and Equality" campaign; *Muhammad Speaks*, Vol. 8, No. 42 (July 4, 1969), "Teachings of the Holy Quran"/"The Disgrace" column. Contrast: absent from Malcolm X's post-March-1964 corpus and explicitly historically bounded, though not repudiated outright, by Warith Deen Muhammad in 1975 (see D6).
 
 ---
 
@@ -235,53 +239,56 @@ Frame D3 (mental slavery via religious and educational false consciousness) is t
 12. "Time of Judgement" (1967)
 13. Saviors Day Address (1974)
 
-**Muhammad Speaks — Representative Issues**
-14. Vol. 1, No. 1 (May 1960) — inaugural issue
-15. Vol. 2, No. 1 (Sept. 1962)
-16. Vol. 3, No. 4 (Jan. 1964)
-17. Vol. 3, No. 26 (Sept. 1964) — immediate post-schism issue
-18. Vol. 4, No. 11 (Feb. 1965) — post-assassination issue
-19. Vol. 7, No. 3 (Oct. 1967)
+**Muhammad Speaks — Representative Issues (Elijah Muhammad, Official Publications)**
+
+*Cited here in expanded form, given the newspaper's status as the movement's primary weekly organ of record and the main vehicle, alongside the books, through which Elijah Muhammad's own words reached the membership.*
+
+14. Vol. 1, No. 1 (May 1960) — inaugural issue; front-page speech, "Muhammad: We Must Have Freedom, Justice, and Equality" ("If one million of you will get behind me, I'll lead you to freedom, justice and equality overnight")
+15. Vol. 1, No. 2 (Dec. 1961) — "We Must Have Freedom, Justice and Equality" / "We Must Have Some Land!" recurring campaign
+16. Vol. 1, No. 4 (Feb. 1962) — "We Must Have Some Land!" campaign, continued
+17. Vol. 1, No. 5 (March 1962) — same campaign; earliest sampled Yacub/steel diagnostic material
+18. Vol. 2, No. 1 (Sept. 1962)
+19. Vol. 2, No. 25 (Aug. 1963) — "We Must Have... Or Else" / "Blame Profiteers, Not All Whites, For Negro..."
+20. Vol. 3, No. 4 (Jan. 1964)
+21. Vol. 3, No. 7 (Dec. 1963/Jan. 1964 issue window) — "The Doom of America" (also reprinted Oct. 1974, see below)
+22. Vol. 3, No. 26 (Sept. 1964) — immediate post-schism issue
+23. Vol. 4, No. 11 (Feb. 1965) — post-assassination issue
+24. Vol. 7, No. 3 (Oct. 1967)
+25. Vol. 7, No. 25 (March 1968) — "What the Muslims Believe," Point 5, on mental resurrection
+26. Vol. 8, No. 42 (July 4, 1969) — "Teachings of the Holy Quran"/"The Disgrace" column, Yacub etiology glossed onto Qur'an 5:51 and 7:27
+27. Vol. 10, No. 33 (April 30, 1971) — "Messenger Muhammad's Teachings: Do For Self... Build Something For Self!" illustrated series
+28. Vol. 14, No. 4 (Oct. 1974) — reprint of "The Doom of America" (orig. Jan. 31, 1964), on the tenth anniversary of the schism year
 
 **Institutional Self-Report**
-20. *Accomplishments of the Muslims* (1975 pamphlet)
+29. *Accomplishments of the Muslims* (1975 pamphlet)
 
 **FBI Files**
-21. FBI Files, Nation of Islam (1955)
-22. FBI Files, Nation of Islam (1957)
-23. FBI Files, Fard Muhammad (1957)
-24. FBI Files, Malcolm X — Headquarters (1953–1971)
-25. FBI Files, Malcolm X — New York (1953–1971)
-26. FBI Files, Malcolm X — Washington (1954–1971)
-27. FBI Files, Malcolm X — Chicago (1958–1971)
+30. FBI Files, Nation of Islam (1955)
+31. FBI Files, Fard Muhammad (1957)
+32. FBI Files, Malcolm X — Headquarters (1953–1971)
+33. FBI Files, Malcolm X — New York (1953–1971)
 
 **Louis X (Louis Farrakhan)**
-28. "Malcolm... Biggest Hypocrite of 1964," *Muhammad Speaks* (Dec. 4, 1964)
-29. *Time* magazine interview/coverage (June 25, 1975)
+34. "Malcolm... Biggest Hypocrite of 1964," *Muhammad Speaks* (Dec. 4, 1964)
+35. *Time* magazine interview/coverage (June 25, 1975)
 
 **Malcolm X**
-30. "The Hate That Hate Produced" interview (July 16, 1959)
-31. Speech, Queens College (May 5, 1960)
-32. "Message to the Grassroots" (Nov. 10, 1963)
-33. "God's Judgement of White America" (Dec. 4, 1963)
-34. Interview with Alex Haley (1963)
-35. "Visit from FBI" (Feb. 4, 1964)
-36. "Declaration of Independence" statement (March 12, 1964)
-37. "The Ballot or the Bullet" (April 3, 1964)
-38. "The Ballot or the Bullet," Cleveland variant (April 12, 1964)
-39. Letter from Mecca (April 20, 1964)
-40. Speech, OAAU Founding Rally (June 28, 1964)
-41. Speech, Second OAAU Rally (July 5, 1964)
-42. Debate, Oxford Union (Dec. 3, 1964)
-43. Essay, "Racism: The Cancer That Is Destroying America" (1964)
-44. Speech after firebombing, Ford Auditorium (Feb. 14, 1965)
-45. "The Worldwide Revolution" speech (Feb. 15, 1965)
-46. Interview with Stan Bernard (Feb. 18, 1965)
+36. "The Hate That Hate Produced" interview (July 16, 1959)
+37. Speech, Queens College (May 5, 1960)
+38. "Message to the Grassroots" (Nov. 10, 1963)
+39. "God's Judgement of White America" (Dec. 4, 1963)
+40. "Visit from FBI" (Feb. 4, 1964)
+41. "Declaration of Independence" statement (March 12, 1964)
+42. "The Ballot or the Bullet," New York and Cleveland variants (April 3 and 12, 1964)
+43. Letter from Mecca (April 20, 1964)
+44. Speech, OAAU Founding Rally (June 28, 1964)
+45. Speech, Second OAAU Rally (July 5, 1964)
+46. Speech after firebombing, Ford Auditorium (Feb. 14, 1965)
+47. "The Worldwide Revolution" speech (Feb. 15, 1965)
+48. Interview with Stan Bernard (Feb. 18, 1965)
 
 **Warith Deen Muhammad**
-47. First Official Interview (March 21, 1975)
-48. "I Was Born for This Mission," *Muhammad Speaks* (March 21, 1975)
-49. "Artificial Blackness," *Muhammad Speaks* (June 27, 1975)
-50. "The Death of White Supremacy," *Muhammad Speaks* (July 18, 1975)
+49. First Official Interview (March 21, 1975)
+50. "Artificial Blackness," *Muhammad Speaks* (June 27, 1975)
 
-*Also drawn on for context beyond the fifty-source citation limit: "Who Is The Original Man?" (Aug. 22, 1975) and Saviors Day Address, Pt. 2 (Feb. 26, 1975), both by W. D. Muhammad.*
+*Also drawn on for context beyond the fifty-source citation limit: "I Was Born for This Mission" (March 21, 1975), "The Death of White Supremacy" (July 18, 1975), and "Who Is The Original Man?" (Aug. 22, 1975), all *Muhammad Speaks* articles by W. D. Muhammad; Saviors Day Address, Pt. 2 (Feb. 26, 1975); FBI Files, Nation of Islam (1957), Malcolm X — Washington (1954–1971), and Malcolm X — Chicago (1958–1971); Malcolm X's Interview with Alex Haley (1963), Debate at the Oxford Union (Dec. 3, 1964), and essay "Racism: The Cancer That Is Destroying America" (1964).*

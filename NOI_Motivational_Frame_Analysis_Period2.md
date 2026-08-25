@@ -4,6 +4,8 @@
 
 This is the **motivational** volume of a three-part frame analysis (Diagnostic / Prognostic / Motivational) of the Nation of Islam corpus, 1952–1977, drawn from the `1952-1977 - Contestation/` directory and selected for centrality to the Elijah Muhammad–Malcolm X contestation and the 1975 Warith Deen Muhammad succession, and for comparability with the Period 1 (1930–1951) motivational analysis. Sources are cited by short title; the full Works Cited (up to fifty sources) appears at the end of this document.
 
+This revision draws substantially deeper on the `Elijah Muhammad/Official_Publications` subfolder — the 1960–1965 run of *Muhammad Speaks* itself — because its recurring editorial cartoons and direct exhortations ("Be Not Afraid of Your Own"; "Throw Out Those White Dolls!") are the corpus's most frequently repeated and most broadly circulated motivational material, reaching the general weekly readership rather than only movement insiders, and giving M4 in particular a concrete, evidentiary anchor that its more purely theological articulations elsewhere lack.
+
 Motivational frames answer: *why should one act now, and on what basis is continued commitment demanded?* Six motivational frames meet the "removal test" (would the movement lose a significant reason to join, obey, sacrifice, or recruit without this frame?) and are presented here in more granular form than the combined report this volume supersedes.
 
 ---
@@ -116,6 +118,8 @@ M1 and M2 jointly sustain Elijah Muhammad's frame package and are deployed with 
 - "White America's worst crime[:] her hypocrisy and her deceit... the Honorable Elijah Muhammad's mission... is to remind America that God has not forgotten America's crimes against his long-lost people" (Malcolm X, "God's Judgement of White America," 1963) — the reversal here operates at the level of moral and historical judgment: the formerly stigmatized become the judges, the formerly powerful become the judged.
 - "This world, the world of grafted Caucasian mentality, has grown old... It has grown so hopeless today" and "Justice is come and everybody is being put on an equal footing... You not only have justice, but you have a Divine blessing too" (W. D. Muhammad, "The Death of White Supremacy," July 18, 1975) — the identical status-reversal promise as the founding cosmology, restated with the racial category ("Caucasian") retained but reattached to "mentality" rather than heredity (see Diagnostic Frame D6), demonstrating that M4's motivational force survived the diagnostic revision essentially intact even as its underlying metaphysics changed.
 - "We know where the power is. The power is with the righteous and we are the righteous" (same document) — a direct restatement, in 1975, of the Period 1 corpus's core motivational promise ("the Gods of the universe") with no loss of intensity despite the intervening forty years and the intervening diagnostic revision.
+- The frame's earliest and most didactic sampled installment in *Muhammad Speaks* pairs the reversal directly with a call to abandon internalized inferiority: "Throw Out Those White Dolls! Oh Black Man, Wake Up!... A part of the reason so-called American Negroes have such a low sense of race pride can be found in the simple but viciously subtle propaganda of white..." (Vol. 1, No. 4, Feb. 1962) — status elevation here is presented not as an abstract cosmological fact to be believed but as an active, remedial break from a specific, named, and demonstrably present psychological injury (doll preference among Black children, an allusion to the Clark doll studies then current in desegregation-era social science), giving M4 a this-worldly, evidentiary anchor absent from its more purely theological articulations elsewhere in the corpus.
+- A companion editorial cartoon in the same run instructs the reader directly: "BE NOT AFRAID OF YOUR OWN... [white men may have different religious beliefs, different politics, different customs, they can resolve]" (Vol. 1, No. 2, Dec. 1961) — a rare instance of M4's reversal logic turned inward, addressed not to the reversal of white supremacy but to the members' own residual fear of intra-communal difference, suggesting the frame also did local, in-group cohesion work beyond its more famous external, racial-cosmological register.
 
 **Connection to Diagnostic Frames.** Directly derived from D1 in Elijah Muhammad's corpus and from its 1975 psychologized successor, D6, in W. D. Muhammad's corpus — evidence that M4 is more durable across doctrinal revision than the specific diagnostic frame that originally generated it.
 
@@ -129,7 +133,7 @@ M1 and M2 jointly sustain Elijah Muhammad's frame package and are deployed with 
 
 **Relative Importance:** **High** throughout the full 1952–1977 period and, read alongside the Period 1 analysis, across the movement's entire documented history to that point.
 
-**Evidence Across Corpus:** MX_1963_12_04_Speech_GodsJudgementOfWhiteAmerica; EM_1964_09_11_Article_ResponseToMXLeaving; MTTBIA (1965); IWDM_1975_07_18_MS_Article_TheDeathOfWhiteSuprememacy.
+**Evidence Across Corpus:** MX_1963_12_04_Speech_GodsJudgementOfWhiteAmerica; EM_1964_09_11_Article_ResponseToMXLeaving; MTTBIA (1965); IWDM_1975_07_18_MS_Article_TheDeathOfWhiteSuprememacy; MS Vol. 1, No. 2 (Dec. 1961), "Be Not Afraid of Your Own" cartoon; MS Vol. 1, No. 4 (Feb. 1962), "Throw Out Those White Dolls! Oh Black Man, Wake Up!"
 
 ---
 
@@ -212,51 +216,51 @@ M1 (Chosen Nation/Divine Urgency) and M4 (Racial Reversal/Cosmic Status Elevatio
 12. "Time of Judgement" (1967)
 13. Saviors Day Address (1974)
 
-**Muhammad Speaks — Representative Issues**
-14. Vol. 1, No. 1 (May 1960)
-15. Vol. 2, No. 1 (Sept. 1962)
-16. Vol. 3, No. 4 (Jan. 1964)
-17. Vol. 3, No. 26 (Sept. 1964)
-18. Vol. 4, No. 11 (Feb. 1965)
-19. Vol. 7, No. 3 (Oct. 1967)
+**Muhammad Speaks — Representative Issues (Elijah Muhammad, Official Publications)**
+
+*Expanded here because the newspaper's editorial cartoons and direct exhortations are the corpus's most frequent, most repeated, and most broadly circulated motivational material — reaching a general weekly readership rather than only movement insiders.*
+
+14. Vol. 1, No. 1 (May 1960) — inaugural issue
+15. Vol. 1, No. 2 (Dec. 1961) — "BE NOT AFRAID OF YOUR OWN" editorial cartoon
+16. Vol. 1, No. 4 (Feb. 1962) — "Throw Out Those White Dolls! Oh Black Man, Wake Up!"
+17. Vol. 2, No. 1 (Sept. 1962)
+18. Vol. 3, No. 4 (Jan. 1964)
+19. Vol. 3, No. 26 (Sept. 1964)
+20. Vol. 4, No. 11 (Feb. 1965)
+21. Vol. 7, No. 3 (Oct. 1967)
 
 **Institutional Self-Report**
-20. *Accomplishments of the Muslims* (1975 pamphlet)
+22. *Accomplishments of the Muslims* (1975 pamphlet)
 
 **FBI Files**
-21. FBI Files, Nation of Islam (1955)
-22. FBI Files, Nation of Islam (1957)
-23. FBI Files, Fard Muhammad (1957)
+23. FBI Files, Nation of Islam (1955)
 24. FBI Files, Malcolm X — Headquarters (1953–1971)
-25. FBI Files, Malcolm X — New York (1953–1971)
-26. FBI Files, Malcolm X — Washington (1954–1971)
-27. FBI Files, Malcolm X — Chicago (1958–1971)
 
 **Louis X (Louis Farrakhan)**
-28. "Malcolm... Biggest Hypocrite of 1964," *Muhammad Speaks* (Dec. 4, 1964)
-29. *Time* magazine interview/coverage (June 25, 1975)
+25. "Malcolm... Biggest Hypocrite of 1964," *Muhammad Speaks* (Dec. 4, 1964)
+26. *Time* magazine interview/coverage (June 25, 1975)
 
 **Malcolm X**
-30. "The Hate That Hate Produced" interview (July 16, 1959)
-31. Speech, Queens College (May 5, 1960)
-32. "Message to the Grassroots" (Nov. 10, 1963)
-33. "God's Judgement of White America" (Dec. 4, 1963)
-34. Interview with Alex Haley (1963)
-35. "Visit from FBI" (Feb. 4, 1964)
-36. "Declaration of Independence" statement (March 12, 1964)
-37. "The Ballot or the Bullet" (April 3, 1964)
-38. "The Ballot or the Bullet," Cleveland variant (April 12, 1964)
-39. Letter from Mecca (April 20, 1964)
-40. Speech, OAAU Founding Rally (June 28, 1964)
-41. Speech, African Summit Conference (Aug. 21, 1964)
-42. Debate, Oxford Union (Dec. 3, 1964)
-43. Speech after firebombing, Ford Auditorium (Feb. 14, 1965)
-44. "The Worldwide Revolution" speech (Feb. 15, 1965)
-45. Interview with Stan Bernard (Feb. 18, 1965)
+27. "The Hate That Hate Produced" interview (July 16, 1959)
+28. Speech, Queens College (May 5, 1960)
+29. "Message to the Grassroots" (Nov. 10, 1963)
+30. "God's Judgement of White America" (Dec. 4, 1963)
+31. "Visit from FBI" (Feb. 4, 1964)
+32. "Declaration of Independence" statement (March 12, 1964)
+33. "The Ballot or the Bullet" (April 3, 1964)
+34. "The Ballot or the Bullet," Cleveland variant (April 12, 1964)
+35. Letter from Mecca (April 20, 1964)
+36. Speech, OAAU Founding Rally (June 28, 1964)
+37. Speech, African Summit Conference (Aug. 21, 1964)
+38. Speech after firebombing, Ford Auditorium (Feb. 14, 1965)
+39. "The Worldwide Revolution" speech (Feb. 15, 1965)
+40. Interview with Stan Bernard (Feb. 18, 1965)
 
 **Warith Deen Muhammad**
-46. Saviors Day Address, Pt. 2 (Feb. 26, 1975)
-47. First Official Interview (March 21, 1975)
-48. "Artificial Blackness," *Muhammad Speaks* (June 27, 1975)
-49. "The Death of White Supremacy," *Muhammad Speaks* (July 18, 1975)
-50. "Who Is The Original Man?", *Muhammad Speaks* (Aug. 22, 1975)
+41. Saviors Day Address, Pt. 2 (Feb. 26, 1975)
+42. First Official Interview (March 21, 1975)
+43. "Artificial Blackness," *Muhammad Speaks* (June 27, 1975)
+44. "The Death of White Supremacy," *Muhammad Speaks* (July 18, 1975)
+45. "Who Is The Original Man?", *Muhammad Speaks* (Aug. 22, 1975)
+
+*Also drawn on for context beyond the fifty-source citation limit: Interview with Alex Haley (1963) and Debate at the Oxford Union (Dec. 3, 1964), Malcolm X; FBI Files, Nation of Islam (1957), Fard Muhammad (1957), Malcolm X — New York, Washington, and Chicago field offices (1953–1971).*

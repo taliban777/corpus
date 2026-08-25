@@ -4,6 +4,8 @@
 
 This is the **prognostic** volume of a three-part frame analysis (Diagnostic / Prognostic / Motivational) of the Nation of Islam corpus, 1952–1977, drawn from the `1952-1977 - Contestation/` directory and selected for centrality to the Elijah Muhammad–Malcolm X contestation and the 1975 Warith Deen Muhammad succession, and for comparability with the Period 1 (1930–1951) prognostic analysis. Sources are cited by short title; the full Works Cited (up to fifty sources) appears at the end of this document and is shared, with minor emphasis differences, across all three volumes of this analysis.
 
+This revision draws substantially deeper on the `Elijah Muhammad/Official_Publications` subfolder — the 1960–1974 run of *Muhammad Speaks* itself — because the paper's recurring "Do For Self" land-fund campaigns and business-building appeals are the corpus's most concrete, dated, and operational record of P1's mechanism in practice: not merely the theological claim that separation is commanded, but the weekly fundraising and reporting apparatus through which land was actually to be purchased and farms and businesses actually built. Fifteen of the fifty cited sources are drawn directly from this run, spanning 1960–1973.
+
 Prognostic frames answer: *what should be done, and by what mechanism will it work?* Six prognostic frames are load-bearing across the corpus, presented here in more granular form than the combined report this volume supersedes.
 
 ---
@@ -35,6 +37,8 @@ These six prognoses are not presented anywhere in the corpus as compatible varia
 - "You must know that this is the time of our separation and the judgment of this world" (MTTBIA, 1965).
 - "Watch how anxious the white man is to hold you and call you by his name" (MTTBIA, 1965) — separation is framed as being actively obstructed by the antagonist's self-interested resistance, which reinforces rather than undermines its necessity.
 - Continuous with the Period 1 corpus's University of Islam and "get on to your own kind" prognoses (Beynon, 1938; *Final Call to Islam*, 1934), P1 in this period restates rather than innovates on the founding prognosis, extending it into the specific, concrete register of "How to Eat to Live" (1967, 1972) — dietary self-governance as the individual-level installment of the larger collective separation.
+- *Muhammad Speaks* itself carries the earliest and most concrete installment of this prognosis as a standing weekly fund appeal, not merely a doctrinal statement: "GIVE THE POOR SO-CALLED NEGROES A CHANCE TO DO FOR SELF! Help Us To Buy Farm Land To Raise Food To Feed The Poor Of Our People... With the purchase of land, wood and open, we can saw our lumber, take clay to make bricks and build our own home" (Vol. 1, No. 2, Dec. 1961; repeated verbatim in Vol. 1, No. 4, Feb. 1962) — separation prescribed here in its literal, load-bearing sense: land acquisition as the mechanism, not merely the metaphor, of exit.
+- By 1973, Elijah Muhammad restates the same mechanism in his own signed voice, explicitly rejecting dependency as the alternative: "WE, are not going to be a 'lazy Lazarus' lying at the rich man's gate. You will starve to death waiting for crumbs from the white man's table... THE EARTH BELONGS TO US, THE BLACK MAN, but we must prove worthy of it. COME FOLLOW ME. Your Brother, ELIJAH MUHAMMAD, MESSENGER OF ALLAH" (*Muhammad Speaks*, Vol. 12, No. 50, Aug. 1973) — twelve years after the 1961–62 land-fund campaign, the mechanism is unchanged, but the register has shifted from institutional appeal ("Help Us To Buy") to first-person testamentary command ("COME FOLLOW ME"), consistent with this analysis's broader finding that P1 is restated, not revised, under the pressure of the intervening schism and decade.
 
 **Connection to Diagnostic Frames.** Directly derived from D1; largely incompatible with D2 read as a claim to full American citizenship rights, since separation abandons rather than claims the American polity.
 
@@ -56,7 +60,7 @@ These six prognoses are not presented anywhere in the corpus as compatible varia
 - *Institutional:* extensive — parallel schools, farms, businesses.
 - *Wider social:* explicitly *not* sought; American society's transformation is framed only as collapse ("the Fall"), never as a reformable object.
 
-**Evidence Across Corpus:** MTTBIA (1965); TFOA (1973); HTETLv1/v2 (1967, 1972); "Accomplishments of the Muslims" (1975); MS Vol. 3, No. 4 (1964).
+**Evidence Across Corpus:** MTTBIA (1965); TFOA (1973); HTETLv1/v2 (1967, 1972); "Accomplishments of the Muslims" (1975); MS Vol. 3, No. 4 (1964); MS Vol. 1, No. 2 (Dec. 1961) and Vol. 1, No. 4 (Feb. 1962), "Do For Self" land-fund campaign; MS Vol. 12, No. 50 (Aug. 1973), "Your Brother, Elijah Muhammad" signed appeal.
 
 ---
 
@@ -243,48 +247,51 @@ P1 (Divine Separation) is the direct, largely unmodified descendant of the Perio
 12. "Time of Judgement" (1967)
 13. Saviors Day Address (1974)
 
-**Muhammad Speaks — Representative Issues**
-14. Vol. 1, No. 1 (May 1960)
-15. Vol. 2, No. 1 (Sept. 1962)
-16. Vol. 3, No. 4 (Jan. 1964)
-17. Vol. 3, No. 26 (Sept. 1964)
-18. Vol. 4, No. 11 (Feb. 1965)
-19. Vol. 7, No. 3 (Oct. 1967)
+**Muhammad Speaks — Representative Issues (Elijah Muhammad, Official Publications)**
+
+*Expanded here, given the newspaper's status as the primary weekly vehicle through which Elijah Muhammad's own prognostic program — land acquisition, "Do For Self," farming, and business-building — was announced, funded, and reported to the membership.*
+
+14. Vol. 1, No. 1 (May 1960) — inaugural issue; front-page call to unified economic action
+15. Vol. 1, No. 2 (Dec. 1961) — "GIVE THE POOR SO-CALLED NEGROES A CHANCE TO DO FOR SELF!" land-fund campaign
+16. Vol. 1, No. 4 (Feb. 1962) — same campaign, repeated verbatim
+17. Vol. 1, No. 5 (March 1962) — continuing land/farm-fund appeal
+18. Vol. 2, No. 1 (Sept. 1962)
+19. Vol. 2, No. 20 (June 1963) — "Do For Self" economic program coverage
+20. Vol. 3, No. 4 (Jan. 1964)
+21. Vol. 3, No. 26 (Sept. 1964)
+22. Vol. 4, No. 11 (Feb. 1965)
+23. Vol. 7, No. 3 (Oct. 1967)
+24. Vol. 9, No. 13 (Dec. 1969) — "Do For Self" program, later phase
+25. Vol. 10, No. 27 (March 1971) — "Do For Self" program, continued
+26. Vol. 10, No. 33 (April 1971) — "Messenger Muhammad's Teachings: Do For Self... Build Something For Self!" illustrated series
+27. Vol. 12, No. 50 (Aug. 1973) — "COME FOLLOW ME... Your Brother, ELIJAH MUHAMMAD" signed appeal, "THE EARTH BELONGS TO US"
+28. Vol. 12, No. 51 (Aug. 1973) — companion issue, same campaign
 
 **Institutional Self-Report**
-20. *Accomplishments of the Muslims* (1975 pamphlet)
+29. *Accomplishments of the Muslims* (1975 pamphlet)
 
 **FBI Files**
-21. FBI Files, Nation of Islam (1955)
-22. FBI Files, Nation of Islam (1957)
-23. FBI Files, Fard Muhammad (1957)
-24. FBI Files, Malcolm X — Headquarters (1953–1971)
-25. FBI Files, Malcolm X — New York (1953–1971)
-26. FBI Files, Malcolm X — Washington (1954–1971)
-27. FBI Files, Malcolm X — Chicago (1958–1971)
+30. FBI Files, Nation of Islam (1955)
+31. FBI Files, Malcolm X — Headquarters (1953–1971)
 
 **Louis X (Louis Farrakhan)**
-28. "Malcolm... Biggest Hypocrite of 1964," *Muhammad Speaks* (Dec. 4, 1964)
-29. *Time* magazine interview/coverage (June 25, 1975)
+32. "Malcolm... Biggest Hypocrite of 1964," *Muhammad Speaks* (Dec. 4, 1964)
+33. *Time* magazine interview/coverage (June 25, 1975)
 
 **Malcolm X**
-30. "The Hate That Hate Produced" interview (July 16, 1959)
-31. Speech, Queens College (May 5, 1960)
-32. "Message to the Grassroots" (Nov. 10, 1963)
-33. "God's Judgement of White America" (Dec. 4, 1963)
-34. Interview with Alex Haley (1963)
-35. "Visit from FBI" (Feb. 4, 1964)
-36. "Declaration of Independence" statement (March 12, 1964)
-37. "The Ballot or the Bullet" (April 3, 1964)
-38. "The Ballot or the Bullet," Cleveland variant (April 12, 1964)
-39. Letter from Mecca (April 20, 1964)
-40. Speech, OAAU Founding Rally (June 28, 1964)
-41. Speech, Second OAAU Rally (July 5, 1964)
-42. Speech, African Summit Conference (Aug. 21, 1964)
-43. Debate, Oxford Union (Dec. 3, 1964)
-44. Speech after firebombing, Ford Auditorium (Feb. 14, 1965)
-45. "The Worldwide Revolution" speech (Feb. 15, 1965)
-46. Interview with Stan Bernard (Feb. 18, 1965)
+34. "The Hate That Hate Produced" interview (July 16, 1959)
+35. Speech, Queens College (May 5, 1960)
+36. "Message to the Grassroots" (Nov. 10, 1963)
+37. "God's Judgement of White America" (Dec. 4, 1963)
+38. "Visit from FBI" (Feb. 4, 1964)
+39. "Declaration of Independence" statement (March 12, 1964)
+40. "The Ballot or the Bullet," New York and Cleveland variants (April 3 and 12, 1964)
+41. Letter from Mecca (April 20, 1964)
+42. Speech, OAAU Founding Rally (June 28, 1964)
+43. Speech, Second OAAU Rally (July 5, 1964)
+44. Speech, African Summit Conference (Aug. 21, 1964)
+45. Speech after firebombing, Ford Auditorium (Feb. 14, 1965)
+46. "The Worldwide Revolution" speech (Feb. 15, 1965)
 
 **Warith Deen Muhammad**
 47. Saviors Day Address, Pt. 2 (Feb. 26, 1975)
@@ -292,4 +299,4 @@ P1 (Divine Separation) is the direct, largely unmodified descendant of the Perio
 49. "Artificial Blackness," *Muhammad Speaks* (June 27, 1975)
 50. "The Death of White Supremacy," *Muhammad Speaks* (July 18, 1975)
 
-*Also drawn on for context beyond the fifty-source citation limit: "Who Is The Original Man?" (Aug. 22, 1975), W. D. Muhammad.*
+*Also drawn on for context beyond the fifty-source citation limit: "Who Is The Original Man?" (Aug. 22, 1975), W. D. Muhammad; Interview with Alex Haley (1963), Debate at the Oxford Union (Dec. 3, 1964), and Interview with Stan Bernard (Feb. 18, 1965), Malcolm X; FBI Files, Nation of Islam (1957), Fard Muhammad (1957), Malcolm X — New York, Washington, and Chicago field offices (1953–1971).*
