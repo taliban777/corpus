@@ -1,46 +1,64 @@
 # Prognostic Framing
 ## Period 3: Consolidation, 1978–1995
 
-### Analytical claim
+### Corpus basis
 
-Farrakhan’s available rhetoric proposes reconstruction rather than a single policy remedy. The desired future depends on knowledge, self-mastery, moral discipline, service, family stability, religious seriousness, and institutional capacity. Structural liberation is therefore presented as requiring transformed subjects and trustworthy communal relations.
+This document draws quotations from all eight available period-3 text files in `Initial Pilot Sampling`: five Farrakhan texts and three Warith Deen Mohammed texts. The available pilot does not contain fifty text sources per leader. The period-labeled PDF was not quotable because PDF/OCR extraction was unavailable; it remains an unanalysed source rather than silently treated as evidence.
 
-### Core prognostic frames
+## 1. Farrakhan’s proposed solution
 
-1. **Root knowledge** — move beyond divisive labels toward principles that disclose common historical and moral foundations.
-2. **Self-government** — develop will and regulate conduct as the basis of collective security.
-3. **Moral and familial reconstruction** — end practices that destroy health, trust, sexual responsibility, and family life.
-4. **Service-oriented leadership** — replace domination and status-seeking with responsibility to others.
-5. **Religious reorientation** — recover a religion that produces justice, knowledge, and active concern for the poor and oppressed.
-6. **Community capacity** — build knowledge, land, household, economic, educational, and organisational resources capable of sustaining autonomy.
+### 1.1 Rebuild from self-mastery
 
-### Strategic orientation
+Farrakhan’s solution begins with a disciplined subject. He says, “if we can start first with the mastery of self,” the individual can develop the capacity to master larger forces (Louis Farrakhan, `LF_1978_10_29_Speech_TheStateOfTheRaceConference.txt`). In the 1980 program speech, the practical sequence is explicit: stop smoking and drug use, end sexual betrayal, restore moral standards, and rebuild trust, love, and family life (Farrakhan, `LF_1980_04_03_Speech_TheProgramOfTheHonorableElijahMuhammad.txt`).
 
-The evidence supports a strategy of internal development and public liberation, but does not yet justify a fixed classification as separation, integration, coalition, or confrontation. Farrakhan’s use of multiple religious and political vocabularies indicates coalitionary reach, while the insistence on Black self-knowledge and independent capacity preserves a distinctive collective project. The safest formulation is that the rhetoric seeks autonomy of knowledge and organisation while remaining open to principled unity across traditions.
+This is not a private self-help programme. Farrakhan states that “all greatness comes through service,” and that the community must replace the pursuit of power over one’s brother with service to others (Farrakhan, 1980, program speech). Moral reconstruction is presented as the infrastructure of collective capacity.
 
-### Relationship between diagnosis and solution
+### 1.2 Root knowledge and unity across difference
 
-The diagnostic-to-prognostic logic is comparatively explicit:
+The 1978 address proposes “root knowledge” as the remedy for “branch knowledge.” Its goal is not to abolish all labels but to identify principles that can unite Muslims, Christians, Hebrews, nationalists, Marxists, Pan-Africanists, and revolutionaries. The requested action is to “stop being superficial students of knowledge” and find “a truth that will make us walk out of here” with principles that unite (Farrakhan, `LF_1978_10_29_Speech_TheStateOfTheRaceConference.txt`).
 
-- historical loss requires recovered knowledge;
-- fragmentation requires root principles and unity;
-- moral disorder requires self-mastery and disciplined conduct;
-- weak trust requires service and family responsibility;
-- religious distortion requires a justice-producing religious interpretation;
-- dependence requires practical community capacity.
+This prognostic frame makes coalition possible without making the coalition ideologically empty. The shared root is divine unity, historical truth, moral responsibility, and service to Black people.
 
-The text leaves some institutional questions unresolved, including the precise relation to the state, electoral politics, interracial coalitions, and economic programmes. These should be analysed only when later texts provide direct evidence.
+### 1.3 Independent institutions and material capacity
 
-### Continuity and change
+The 1980 program speech endorses the construction of “our own homes, schools, hospitals, and factories” and argues that Black people need land but “more than land, we need knowledge” (Farrakhan, `LF_1980_04_03_Speech_TheProgramOfTheHonorableElijahMuhammad.txt`). The solution is therefore developmental: knowledge must precede or accompany ownership so that institutions can be governed and sustained.
 
-Continuity with Elijah Muhammad is established through reverence, inherited vocabulary, and the claim that Black people require a distinctive truth and guide. Change appears in the address’s broad public register, interreligious synthesis, and emphasis on practical self-development. The central question for the full corpus is whether this synthesis becomes a stable programme or remains context-specific rhetoric.
+The same speech links family housing to moral and social capacity. A home gives children room and privacy, while overcrowding produces conflict and immorality (Farrakhan, 1980, program speech). Domestic, economic, educational, and religious reconstruction are treated as connected rather than separate policy areas.
 
-### Corpus-grounded evidence
+### 1.4 Separation as collective submission and institutional protection
 
-The pilot texts show two distinct but internally developed prognostic projects. Farrakhan’s 3 April 1980 speech turns Elijah Muhammad’s twelve-point program into a practical programme of Black institutional capacity: homes, schools, hospitals, and factories; it also insists that knowledge must precede or accompany land and that self-mastery, moral conduct, family stability, and service are conditions of durable organisation. The 1978 speech supplies the broader logic of root knowledge, unity across labels, and service to the oppressed. The 1982 speech continues this orientation through calls to recover Elijah Muhammad’s light, clean up collective conduct, share resources, and build disciplined community life.
+In the 1980 integration/separation speech, separation is redefined as a means of maximising Black strength while remaining within the American body politic. Farrakhan points to Chinese and Japanese communities that maintain their own neighbourhoods, politics, and economies (Louis Farrakhan, `LF_1980_07_20_Speech_TheQuestionOfIntegrationVersusSegregationWhichWayShouldWeGo.txt`).
 
-Mohammed’s 1979 and 1980 texts propose a different route. Leadership should represent the healthy aspirations of the people, receive support without becoming an object of worship, and remain accountable to the community’s capacity to recognise and correct dictatorship. “Liberation For All People” defines the future through universal humanitarian liberation, education, equality, sincere prayer, and the rejection of aristocracy, dictatorship, materialism, and elite religious formalism. The prognostic difference should therefore be stated carefully: the pilot evidence suggests Farrakhan foregrounds reconstruction of a distinct, disciplined Black institutional project under Elijah Muhammad’s program, while Mohammed foregrounds Islamic universalism, education, accountable leadership, and liberation of the common person. This is an interpretive contrast, not a completed corpus ranking.
+The stronger religious solution is the creation of “a nation of Islam,” defined not simply as a Black population but as “a community of people who are welded together” by submission to Allah’s will (Farrakhan, 1980, integration/separation). The proposed institutional future is therefore morally bounded and religiously organised.
 
-### Comparative questions for Mohammed’s corpus
+### 1.5 Recover Elijah Muhammad’s programme
 
-Code whether Mohammed presents religious change as the solution to racial and social problems, whether inherited teachings are preserved or reinterpreted, and whether the preferred future is organised through civic participation, wider Muslim belonging, community economics, moral education, or another strategy. Similar words must not be treated as equivalent solutions without examining their textual function.
+Farrakhan’s continuity claim is itself prognostic. He says the Twelve Point Programme, if “carefully studied,” “carefully analyzed,” and “carried into practice,” can solve the problems of Black men and women in America (Farrakhan, `LF_1980_04_03_Speech_TheProgramOfTheHonorableElijahMuhammad.txt`). The proposed future is not a return to memory alone; it is the operationalisation of an inherited programme through homes, schools, hospitals, factories, discipline, and service.
+
+## 2. Mohammed’s proposed solution
+
+### 2.1 Accountable and participatory leadership
+
+Mohammed’s 1979 solution is leadership with community identity and community judgment. “A leader should represent the good, healthy aspirations of his people,” and people should participate in “the forming and the growth and progress of that leadership” (Warith Deen Mohammed, `IWDM_1979_12_21_BN_Article_TheMeaningOfLeadership.txt`).
+
+He does not advocate leaderlessness. He says people must support strong leadership while retaining enough confidence to “detect a dictator and straighten him out or get somebody better” (Mohammed, 1979). The solution combines obedience to worthy leadership with the community’s capacity to correct or replace it.
+
+### 2.2 Universal humanitarian liberation
+
+Mohammed’s 1980 solution is to recover the universal mission of Islam: “the universal, humanitarian liberation that is for all people, equally” (Warith Deen Mohammed, `IWDM_1980_10_03_BN_Article_LiberationForAllPeople.txt`). He presents education for all people, including women, as central to that mission and interprets Bilal as a sign that Black people are called to publicly declare truth rather than hoard knowledge.
+
+The key practical injunction is public proclamation and education: “Don’t hide it under a bushel, take it to the top of the house. Let your light shine” (Mohammed, 1980). The solution is expansive rather than separatist: transmit knowledge, call people to God, and make Black religious experience serve a universal human horizon.
+
+### 2.3 Prayer, sincerity, and anti-corruption
+
+Mohammed’s proposed remedy to corrupt institutions is sincere religious practice. “If you pray sincerely, you can’t carry corruption,” he argues; sincere prayer should make people’s lives and countries right (Mohammed, 1980). Religious reorientation therefore has institutional consequences: it should prevent aristocracy, dictatorship, materialism, and elite hypocrisy.
+
+### 2.4 Distributed succession
+
+The 1995 successor response proposes continuity through several capable leaders rather than a single named successor. Mohammed says Allah may support “a number of brothers” who can give the community good leadership, and that the community will know this support and give those leaders its backing (Warith Deen Mohammed, `IWDM_1995_10_04_Article_CommentsOnSuccessor.txt`). This prognosis decentralises succession while retaining divine legitimation and communal recognition.
+
+## 3. Comparative prognostic configuration
+
+Farrakhan’s proposed future is a disciplined, morally bounded, institution-building Nation of Islam that restores Elijah Muhammad’s programme and protects Black collective identity through separation, service, knowledge, and submission. Mohammed’s proposed future is an educated, morally serious, publicly inclusive Muslim community that recovers Islam’s universal humanitarian mission, rejects elite corruption, and recognises leadership through communal discernment.
+
+Both prognoses require knowledge, discipline, leadership, and community institutions. Their divergence lies in the political-religious form those elements take: Farrakhan uses them to reconstruct a distinct Black nation-in-Islam; Mohammed uses them to open Black Muslim identity toward universal liberation, civic participation, and distributed leadership.

@@ -1,41 +1,76 @@
 # Diagnostic Framing
 ## Period 3: Consolidation, 1978–1995
 
-### Analytical claim
+### Corpus basis and scope
 
-The available Farrakhan evidence diagnoses Black crisis through a layered account of historical dispossession, racial domination, epistemic alienation, communal fragmentation, and internal moral weakness. These layers are mutually reinforcing: external oppression produces lost history and diminished agency; fractured identity and undisciplined conduct reproduce vulnerability; religious and historical reinterpretation becomes necessary to recover collective capacity.
+This revision is based on direct reading of every period-3 text file presently available in `Initial Pilot Sampling`: five Louis Farrakhan texts (1978, 1980 x3, 1982) and three Warith Deen Mohammed texts (1979, 1980, 1995). That is the complete available text-file sample, not fifty sources per leader. The archive exposes only these eight period-3 text files in the pilot directory; the one period-labeled PDF, `HS_1995[1951]_Article_NOI.pdf`, is binary image/PDF material and could not be text-extracted in the current environment, so it is not quoted here. No claim below treats this pilot as a complete 1978–1995 corpus.
 
-### Core diagnostic frames
+Citations use the archive filename and, where the source is paginated or internally segmented, the date/title supplied by the file. Because the extracted text files do not contain stable page numbers, quotations should be checked against the scan before publication.
 
-1. **Historical dispossession and alienation** — Black people are represented as separated from land, ancestry, culture, and the power of their own being.
-2. **White supremacy as material and epistemic domination** — oppression governs not only resources and institutions but also the categories through which history and religion are understood.
-3. **Fragmentation of the collective** — religious, ideological, fraternal, and political labels become barriers when they obscure a common root.
-4. **Internal moral disorder** — addiction, sexual irresponsibility, greed, distrust, and status-seeking weaken family and community capacity.
-5. **Religious distortion** — religion becomes harmful when used to legitimate domination, but remains necessary when restored to justice, truth, and service.
-6. **Leadership and succession uncertainty** — Elijah Muhammad’s authority is invoked as the basis for continuity while the movement’s post-1975 direction remains contested.
+## 1. Farrakhan: the problem represented
 
-### Collective identity
+### 1.1 Historical dispossession and lost agency
 
-The relevant collective is elastic but not empty. Farrakhan addresses Black people broadly, former and current Muslims, members of other religious traditions, and participants in Black political struggle. The collective is defined by shared historical injury, a common ancestry, and a responsibility to recover knowledge and agency. Membership is therefore represented as ethical and practical as well as formal: legitimate belonging requires conduct that strengthens trust, family, service, and collective survival.
+Farrakhan’s 1978 address constructs Black crisis as both displacement from place and estrangement from collective power: Black people have been “lost from our native land and people” and “lost from ourselves, lost from the power of our own being” (Louis Farrakhan, `LF_1978_10_29_Speech_TheStateOfTheRaceConference.txt`). The diagnosis is therefore not only racial exclusion. It is an injury to historical memory, identity, and the capacity to act.
 
-### Responsibility and causation
+The same text links oppression to epistemic loss, describing the “hot sands of white oppression and black ignorance” and arguing that Black culture was displaced by “an alien culture in the name of God” (Farrakhan, 1978). His object is a system that controls both material life and the terms through which history and religion are interpreted.
 
-Responsibility is distributed across external and internal domains. White supremacy, cultural dispossession, and religious manipulation are structural or historical sources of harm; individual conduct and communal disunity are proximate conditions that reproduce it. The text does not equate these forms of responsibility. Its rhetorical work is to prevent external oppression from becoming an excuse for passivity while preventing internal critique from becoming a denial of structural domination.
+### 1.2 Fragmentation and branch knowledge
 
-### Historical interpretation
+The 1978 text diagnoses religious and political labels as a source of division when they obscure common principles. Farrakhan lists “nationalists,” “Marxist-Leninists,” “Pan-Africanists,” “revolutionaries,” “Muslims,” “Christians,” and “Hebrews,” then argues that “all of these things have a common root” and that “root knowledge” can eliminate “the divisiveness of branch knowledge” (Farrakhan, 1978). The issue is not diversity itself but superficial identity claims that prevent cooperation.
 
-Elijah Muhammad is treated as evidence of divine guidance and as the bearer of recovered knowledge. Earlier NOI teachings are neither simply repeated nor discarded: they are used as resources for a broader account of Black history, religious unity, and collective discipline. The speech’s references to Africa, scripture, genetics, and racial history turn the past into an explanation of present identity and a warrant for action.
+He repeats the diagnosis through an image of fraternal separation: people meet “on the hot sands of white oppression and black ignorance” but cannot recognize one another because they belong to different lodges, fraternities, or ideological camps (Farrakhan, 1978). The racial collective is broad, but it requires a deeper basis than labels.
 
-### Comparative questions for Mohammed’s corpus
+### 1.3 White supremacy as political and spiritual order
 
-The Mohammed material should be coded separately for whether it locates the central problem in racial domination, inherited doctrine, institutional isolation, moral disorder, or a combination. Particular attention should be paid to how it defines the boundaries of the collective, the meaning of Islam, and the status of Elijah Muhammad’s legacy. No comparative conclusion should be drawn from Farrakhan’s criticisms in place of Mohammed’s own texts.
+The 1980 integration/separation speech represents integration as a failed or manipulative strategy when it prevents Black people from building independent institutional power. Farrakhan argues that Chinese and Japanese communities “run their own Chinatown” or “Japanese town,” maintain their own politics and economies, and can remain “within the body politic of the United States” without dissolving their identity (Farrakhan, `LF_1980_07_20_Speech_TheQuestionOfIntegrationVersusSegregationWhichWayShouldWeGo.txt`).
 
-### Corpus-grounded evidence
+The text also represents the dominant order as spiritually destructive: “the white man’s world absolutely kills the power of God in you” because it deprives Black people of “freedom, justice, and equality” (Farrakhan, 1980, integration/separation). Separation is thus diagnosed as protection from a social order that absorbs, disciplines, and weakens Black collective agency.
 
-The present pilot corpus contains the following directly readable sources for this period: Louis Farrakhan, “The State of the Race Conference” (29 October 1978); Warith Deen Mohammed, “The Meaning of Leadership” (lecture excerpt, 20 October 1979, published 21 December 1979); Farrakhan, “The Program of the Honorable Elijah Muhammad” (3 April 1980); Mohammed, “Liberation For All People” (address excerpt, 15 March 1980, published 3 October 1980); Farrakhan, “The Question of Integration Versus Segregation” (20 July 1980); Farrakhan, “The Destruction of the Nation of Islam” (20 October 1980); Farrakhan, “The Wisdom of the Honorable Elijah Muhammad” (24 October 1982); and Mohammed, “Comments on Successor” (4 October 1995). The 1995 item is a study-library transcript and should be treated as a distinct genre from the Bilalian News excerpts.
+### 1.4 Internal moral disorder and institutional vulnerability
 
-Across these sources, the diagnostic architecture is not limited to the 1978 address. Farrakhan repeatedly represents the crisis through lost knowledge, white supremacy, separation from Black history, moral disorder, and the weakening of collective discipline. His 1980 program speech explicitly links social problems to smoking, drugs, sexual misconduct, distrust, weak family life, and status-seeking. Mohammed’s 1979 leadership text diagnoses materialism, lust, corruption, human weakness, jealousy, and the inability to support worthy leadership as barriers to collective advancement. His 1980 address extends the diagnosis to aristocracy, dictatorship, materialism, scholarly isolation from ordinary people, corruption, and the failure of nationalists and religious elites to liberate and educate the masses. These are source-based observations from the pilot, not frequency claims about the full archive.
+Farrakhan’s diagnosis is not external-only. In the 1980 program speech he says that ending the “state of the race” begins with the self: “I got to stop being a nigger. I got to stop being a fool. I got to stop chasing after power and authority and greed and lust to be over my brother” (Farrakhan, `LF_1980_04_03_Speech_TheProgramOfTheHonorableElijahMuhammad.txt`). Smoking, drugs, sexual betrayal, and weak family life are represented as practices that make people untrustworthy and therefore undermine collective organisation.
 
-### Evidentiary caution
+The 1982 speech gives this internal diagnosis an organisational form. It describes the post-Elijah crisis as a test that exposes “liars” and “hypocrites” inside organisations, arguing that an organisation without “principles,” a “moral code,” or an “ethical code” can be occupied by destructive forces (Farrakhan, `LF_1982_10_24_Speech_TheWisdomOfTheHonorableElijahMuhammad.txt`).
 
-The available files are a pilot sample rather than a complete 1978–1995 corpus. Claims about prevalence, temporal change, or reception must therefore remain provisional. The PDFs in the project should be added to the source register and read alongside the extracted text files; OCR quality, editorial selection, missing years, and genre imbalance must be recorded before treating a frame as corpus-wide.
+### 1.5 Succession and contamination of inherited truth
+
+The 1982 text diagnoses the post-Elijah period through the metaphor of a community left vulnerable after its founding teacher departs. Farrakhan says that Elijah Muhammad “made a community called Muslims,” and that in his absence “a serpent-like” force introduces “interpretation,” “falsification,” and “deceit” (Farrakhan, 1982). This is a diagnosis of contested succession: the central problem is not simply leadership absence but the corruption of inherited teaching.
+
+The 1980 program speech similarly presents Elijah Muhammad’s message as uniquely fitted to the problems of Black America: “Never before has there been a specific message tailored to meet the need and to solve the problems of the black man and woman in America” (Farrakhan, `LF_1980_04_03_Speech_TheProgramOfTheHonorableElijahMuhammad.txt`).
+
+## 2. Warith Deen Mohammed: the problem represented
+
+### 2.1 Leadership failure, materialism, and weak collective judgment
+
+Mohammed’s 1979 leadership article diagnoses the central problem as a failure to support and evaluate worthy leadership. “Society cannot move ahead without strong leadership,” he says, but leadership must represent “the good, healthy aspirations” of the community, with the people participating in its formation (Warith Deen Mohammed, `IWDM_1979_12_21_BN_Article_TheMeaningOfLeadership.txt`).
+
+He identifies the enemies of collective advancement as “materialism, lust, corruption, human weaknesses,” not as a racial category alone (Mohammed, 1979). He also diagnoses jealousy and anti-leadership individualism: African Americans are “a bunch of crabs in a barrel,” unwilling to support a worthy person because “it’s not us” (Mohammed, 1979). This produces a different diagnostic emphasis from Farrakhan’s: the problem is still collective weakness, but Mohammed centres discernment, accountable followership, and the social psychology of leadership.
+
+### 2.2 Doctrinal and institutional stagnation
+
+In “Liberation For All People,” Mohammed diagnoses religious history through the recurring failure of institutions to serve ordinary people. Islam and Christianity, he argues, moved into “aristocracy,” “dictatorship,” and “materialism,” leaving “the universal, humanitarian liberation that is for all people, equally” (Warith Deen Mohammed, `IWDM_1980_10_03_BN_Article_LiberationForAllPeople.txt`). Scholarly and metaphysical discourse became detached from popular education: Muslims “left the mission to liberate and elevate the mind of the common person” (Mohammed, 1980).
+
+The diagnosis therefore targets elite closure and institutional corruption rather than religion as such. It identifies a recurring mechanism: a liberatory message becomes formal, aristocratic, and politically self-protective, while ordinary people lose access to education and agency.
+
+### 2.3 Racial exclusion and the unrealised meaning of Bilal
+
+Mohammed’s Bilal argument diagnoses the failure of Muslim communities to realise their universal mission. Bilal is “not the purpose”; “you are the object,” and the significance of the Black caller of prayer must be enacted in humanity and in the audience (Mohammed, 1980). The problem is not simply that Black people are excluded. It is that communities claiming Islam have failed to interpret and embody the prophetic inclusion signified by Bilal.
+
+### 2.4 Historical oppression as deprivation of knowledge and political standing
+
+Mohammed also describes American racial domination in concrete terms: slavery, the deprivation of names, language, culture, religion, and God, followed by a condition of being “a free slave” or “a home-born slave” (Mohammed, 1980). Black people are “underrepresented in every legislative body,” and treated as “nothing to speak of” in world decision-making (Mohammed, 1980). The diagnostic structure combines structural racial injury with the loss of knowledge and civic agency.
+
+### 2.5 Succession without a single designated successor
+
+The 1995 successor discussion rejects a singular hereditary or named successor: “I don’t see any single person as a successor,” Mohammed says, instead identifying “a number of brothers” who may receive divine support and provide good leadership (Warith Deen Mohammed, `IWDM_1995_10_04_Article_CommentsOnSuccessor.txt`). The diagnosis implicit in this response is that community continuity cannot depend on one replacement figure alone; legitimacy must be recognised through the quality of multiple leaders and the community’s judgment.
+
+## 3. Comparative diagnostic finding
+
+Both leaders diagnose collective weakness through a combination of historical injury and internal failure. Farrakhan places greater emphasis on dispossession, white supremacy, contamination of Elijah Muhammad’s message, moral discipline, and the need to reconstitute a distinct Nation of Islam. Mohammed places greater emphasis on elite corruption, education, leadership discernment, universal humanitarian liberation, and the capacity of the community to recognise worthy leadership.
+
+The difference should not be reduced to “Farrakhan is political, Mohammed is religious.” Both texts are political and religious. The key difference is the object of diagnosis: Farrakhan identifies a people severed from its history, disciplined by an alien order, and divided after the loss of its divinely guided leader; Mohammed identifies institutions and communities that repeatedly abandon liberation for aristocracy, materialism, formalism, or poor leadership.
+
+### Evidentiary limit
+
+This is a direct-quotation pilot analysis of eight available period text files, not a fifty-source-per-leader analysis. The next corpus pass should add up to fifty sources per leader if the archive contains them, extract the PDFs with a functioning OCR/PDF tool, and record page numbers or image references for every quotation before publication.
