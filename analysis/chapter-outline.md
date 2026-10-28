@@ -103,6 +103,10 @@ After the 1975 succession crisis, Louis Farrakhan and Warith Deen Mohammed artic
 - Implications for scholarship on Black religious movements, leadership, and framing
 - Evidence still needed for claims about reception, alignment, and mobilisation
 
+### Corpus-grounded pilot base
+
+The chapter should explicitly identify the current pilot evidence before making period-wide claims. The readable text files include Farrakhan (1978, 1980, 1980, 1980, 1982) and Warith Deen Mohammed (1979, 1980, 1995), with genre labels distinguishing speeches, Bilalian News excerpts, and the 1995 study-library transcript. The archive also contains PDFs for the period, including the 1995 *NOI* item; these must be entered into the same register and checked for OCR or editorial mediation. The pilot already supports a cautious contrast: Farrakhan’s texts centre Elijah Muhammad’s program, Black institutional reconstruction, moral discipline, and direct mobilisation; Mohammed’s texts centre accountable leadership, universal humanitarian liberation, education, and community discernment.
+
 ### Appendices
 
 - Corpus register

@@ -30,6 +30,12 @@ The speech combines praise, rebuke, humour, repetition, rhetorical questions, re
 
 The speech demonstrates attempted frame alignment, not successful mobilisation. It shows what conduct and allegiance the rhetoric requests, but not whether listeners accepted, resisted, or enacted those demands. Evidence of reception would require interviews, correspondence, attendance or membership records, organisational documents, or other independent sources.
 
+### Corpus-grounded evidence
+
+The pilot sources show different motivational subject positions. Farrakhan repeatedly addresses listeners as the people of God, inheritors of Elijah Muhammad’s light, and accountable builders of the Black community. In the 1980 program speech, the call is concrete: stop self-destructive habits, reject lust and greed, strengthen the family, build institutions, and serve rather than seek authority. In the 1982 speech, audience response is directly solicited through requests to raise hands, unite behind Elijah Muhammad’s leadership, ask questions, and help raise the people. These passages demonstrate attempted alignment and requested commitment, not successful mobilisation.
+
+Mohammed’s 1979 text motivates through accountable support for worthy leadership rather than personality worship: the audience must recognise leadership, give it support, and avoid destroying a community because one person lacks control. The 1980 text motivates through the prophetic example of Bilal and the obligation to take truth to the top of the house, refuse hoarding of knowledge, and extend liberation to all people. The 1995 successor discussion is more institutionally cautious: Mohammed refuses to name a single successor and asks the community to recognise and support whichever leaders prove sustained by Allah. The contrast suggests different motivational emphases—Farrakhan’s direct mobilisation around inherited authority and disciplined reconstruction, Mohammed’s cultivation of knowledgeable, accountable, and collectively discerning believers—while the sample remains too small for a final generalisation.
+
 ### Comparative questions for Mohammed’s corpus
 
 The Mohammed texts should be examined for the forms of commitment they request and the authority used to secure it: worship, moral education, civic responsibility, family life, institutional participation, obedience, knowledge, or community development. Compare not the intensity of rhetoric but the kind of subject each trajectory asks audiences to become.
